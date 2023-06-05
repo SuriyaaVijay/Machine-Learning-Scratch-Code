@@ -1,0 +1,15 @@
+Age,Income,Marital_Status,Cred_rating,Buys_Car
+Youth,High,No,Fair,No
+Youth,High,No,Excellent,No
+MiddleAge,High,No,Fair,Yes
+Senior,Medium,No,Fair,Yes
+Senior,Low,Yes,Fair,Yes
+Senior,Low,Yes,Excellent,No
+MiddleAge,Low,Yes,Excellent,Yes
+Youth,Medium,No,Fair,No
+Youth,Low,Yes,Fair,Yes
+Senior,Medium,Yes,Fair,Yes
+Youth,Medium,Yes,Excellent,Yes
+MiddleAge,Medium,No,Excellent,Yes
+MiddleAge,High,Yes,Fair,Yes
+Senior,Medium,No,Excellent,No
